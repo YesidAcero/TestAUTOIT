@@ -1,2 +1,2 @@
 # TestAUTOIT
-Código para la búsqueda de valores en Mercado Libre y Amazon
+Código para la búsqueda de precios de productos en Mercado Libre y Amazon.
