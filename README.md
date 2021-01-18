@@ -1,2 +1,2 @@
 # TestAUTOIT
-Archivo .au3 con nombre Test
+Código para la búsqueda de valores en Mercado Libre y Amazon
